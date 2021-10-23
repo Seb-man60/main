@@ -1,7 +1,7 @@
 # dev
 Main git repository for development
 
-## Liste de projets par domaine
+## List of projects by language
 ---
 PowerShell :
 - 
