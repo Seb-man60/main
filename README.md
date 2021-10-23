@@ -1,4 +1,4 @@
-# dev
+# main
 Main git repository listing my projects
 
 ## List of projects by programming language
