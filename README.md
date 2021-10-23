@@ -3,20 +3,20 @@ Main git repository for development
 
 ## List of projects by programming language
 ---
-PowerShell :
+## PowerShell
 - 
 
-Python :
+## Python
 -
 
-## C :
+## C
 - AES-128 Encryption
 
-C++ :
+## C++
 -
 
-C# :
+## C#
 -
 
-JAVA :
+## JAVA
 -
