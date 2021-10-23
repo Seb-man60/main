@@ -1,5 +1,5 @@
 # dev
-Main git repository for development
+Main git repository listing my projects
 
 ## List of projects by programming language
 ---
